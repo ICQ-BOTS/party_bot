@@ -1,11 +1,17 @@
-<img src="https://github.com/ICQ-BOTS/party_bot/blob/main/PartyBot.png" width="100" height="100">
+# [PartyBot](https://icq.im/PartyBot)
 
+<a href="https://icq.im/PartyBot"><img src="https://github.com/ICQ-BOTS/party_bot/blob/main/PartyBot.png" width="100" height="100"></a>
 
-# PartyBot
+# Оглавление 
+ - [Описание](https://github.com/ICQ-BOTS/party_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/party_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/party_bot#скриншоты-работы)
 
-[PartyBot](https://icq.im/PartyBot)
+# Описание
+Это твое одеяло. Я буду напоминать тебе каждый день, как я по тебе скучаю.
 
-Старт:
+# Установка
+
 1. Установка всех зависимостей 
 ```bash
 pip3 install -r requirements.txt
@@ -23,3 +29,6 @@ python3 database.py
 python3 party_bot.py
 ```
  
+# Скриншоты работы
+<img src="https://github.com/ICQ-BOTS/party_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/party_bot/blob/main/img/2.png" width="400">
